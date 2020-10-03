@@ -1,0 +1,12 @@
+In the year {year}, {dwarfName} the {adjective} was born.
+In the year {year}, {elfName} the {adjective} was born.
+In the year {year}, {dwarfName} founded {cityName} the {adjective}.
+In the year {year}, {dwarfName} declared war against {cityName} the {adjective}.
+In the year {year}, {creatureName} destroyed {cityName}.
+In the year {year}, {dwarfName} formed an alliance with {elfName}.
+In the year {year}, {dwarfName} declared war against {elfName}.
+In the year {year}, {dwarfName} defeated {creatureName}.
+In the year {year}, {dwarfName} fought a great battle against {creatureName}.
+In the year {year}, {dwarfName} fought a great battle against {elfName}.
+In the year {year}, {dwarfName} was killed by {creatureName}.
+In the year {year}, {dwarfName} was killed by {elfName}.
